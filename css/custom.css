@@ -35,8 +35,7 @@
     /* 为载入的字体取名字(随意) */
     font-family: 'NSWDXXT';	
     /* 字体文件地址(相对或者绝对路径都可以) */
-    src: url(https://fileres.fonts.net.cn/font-41465-221104125556.zip?response-content-disposition=attachment%3Bfilename%3D%22NiShiWoDeXingXingTang.zip%22&auth_key=1669730684-63861140f228b1x00017816-0-74dd0cebf0e3ee895f6459e165e2bae1);
-    /* 定义加粗样式(加粗多少) */
+    src: url(/font/YSHaoShenTi-2.ttf)
     font-weight: normal;
     /* 定义字体样式(斜体/非斜体) */
     font-style: normal;
