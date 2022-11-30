@@ -35,7 +35,7 @@
     /* 为载入的字体取名字(随意) */
     font-family: 'NSWDXXT';	
     /* 字体文件地址(相对或者绝对路径都可以) */
-    src: url(/font/YSHaoShenTi-2.ttf)
+    src: url(https://fileres.fonts.net.cn/font-38877-200928144026.zip?response-content-disposition=attachment%3Bfilename%3D%22YouSheHaoShenTi.zip%22&auth_key=1669804043-63872fcf2ed547x82970929-0-e4c683989abaff6686ab2847d4c7bda4)
     font-weight: normal;
     /* 定义字体样式(斜体/非斜体) */
     font-style: normal;
