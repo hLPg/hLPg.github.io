@@ -66,8 +66,9 @@
   left: -85px;
 }
 .menus_items .menus_item:nth-child(3) .menus_item_child {
-  left: -28px;
+  left: -60px;
 }
+
 
 /* 夜间模式菜单栏发光字 */
 [data-theme="dark"] #nav .site-page,
