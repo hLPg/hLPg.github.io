@@ -72,9 +72,9 @@
       
         <tags>
             
-            <tag> 新年 </tag>
-            
             <tag> 总结 </tag>
+            
+            <tag> 新年 </tag>
             
         </tags>
       
@@ -153,9 +153,9 @@
       
         <tags>
             
-            <tag> 英语 </tag>
-            
             <tag> 新年 </tag>
+            
+            <tag> 英语 </tag>
             
         </tags>
       
@@ -291,7 +291,7 @@
     
     
     <entry>
-      <title>个人博客测试1</title>
+      <title>encrypt插件加密页面</title>
       <link href="/post/13f414f3.html"/>
       <url>/post/13f414f3.html</url>
       
@@ -300,7 +300,7 @@
       
       <categories>
           
-          <category> 杂谈 </category>
+          <category> Markdown </category>
           
       </categories>
       
@@ -418,8 +418,6 @@
             <tag> 测试 </tag>
             
             <tag> 博客 </tag>
-            
-            <tag> Markdown </tag>
             
         </tags>
       
