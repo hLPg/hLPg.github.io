@@ -1,1 +1,0 @@
-function closeclick(){$("#note")[0].style.display="none",window.localStorage.setItem("isClose","yes")}$((function(){"yes"==window.localStorage.getItem("isClose")?$("#note")[0].style.display="none":$("#note")[0].style.display="block"}));
